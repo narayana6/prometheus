@@ -47,7 +47,7 @@ mv node_exporter-1.8.2.linux-amd64 node_exporter
 Create a systemctl service
 
 ```
-vim /etc/systemd/system/node_experter.service
+vim /etc/systemd/system/node_exporter.service
 ```
 
 copy the below content
